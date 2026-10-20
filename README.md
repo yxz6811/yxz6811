@@ -1,16 +1,35 @@
-## Hi there 👋
+# 杨曦哲
 
-<!--
-**yxz6811/yxz6811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是杨曦哲，来自杭州，现在读初中。编程和人工智能是我最大的热爱。
 
-Here are some ideas to get you started:
+我习惯先找一个真实问题，再用 AI 和工程把它做成可以演示、也可以讲出去的东西。比起空谈概念，我更在意技术有没有真正帮到人。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+网上你可能见过我的账号「喜欢编程的杨同学」。内容主要是 AI 辅助学习、AI 编程和黑客松实录，全网粉丝 50 万以上。
+
+## 我在忙什么
+
+- 和队友参加黑客松，把想法做成能当场演示的作品
+- 用 C++ 打信息学竞赛；全栈在补，更偏后端；写代码时常用 AI 辅助
+- 把做出来的东西讲清楚：路演、演讲，以及拍成视频
+
+## 做过的作品
+
+- [薯医](https://noterx.muran.tech/)：多模态笔记评估和评论区预估。小红书黑客松巅峰赛，AI 原住民特别单元奖
+- **智能餐盒**：HackMIT China，最佳路演奖、赛道二等奖
+- **AI 视觉辅助视障化妆**：Moonshot48，小组全场第一
+- **教育赛道第二名**：回响·48H，学军中学
+- **OvO**：游戏陪玩 Agent 的语音模块，做于 AdventureX 2026
+
+## 演讲
+
+- 网络视听创作者大会嘉宾，小红书邀请
+- 苹果返校季嘉宾
+- 乌镇健康大会主讲，AI for Young 论坛
+
+## 联系我
+
+合作、演讲或一起做项目，优先发邮件：[3978401510@qq.com](mailto:3978401510@qq.com)
+
+- 个人网站：[yangxizhe.com](https://yangxizhe.com)
+- [抖音](https://v.douyin.com/-3l3aJWSg1w/)
+- [小红书](https://xhslink.com/m/8ktq1Ms53vg)
